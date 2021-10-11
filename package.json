@@ -1,0 +1,7 @@
+{
+  "scripts": {
+    "start": "node env/server.js",
+    "dev": "nodemon -w & tsc -w"
+  },
+  "type": "module"
+}
