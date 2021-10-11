@@ -1,7 +1,7 @@
 {
   "scripts": {
     "start": "node env/server.js",
-    "dev": "nodemon -w & tsc -w"
+    "dev": "nodemon -w "
   },
   "type": "module"
 }
